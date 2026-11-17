@@ -141,5 +141,5 @@ The Programming Manual explains the following topics in detail:
 - ROS APIs, movement, camera, and checkpoint processing
 - Log design, error handling, and AR marker recognition
 
-For details, see [docs/ProgrammingManual.md](docs/ProgrammingManual.md).
+For details, see ProgrammingManual.
 
