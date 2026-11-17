@@ -3,7 +3,7 @@ All backup files are in the “release” 檔名的格式為 UTC 若需轉成台
 
 This workspace is used to develop programs for Kibo-RPC 7th and test them with the Web simulator or the local simulator.
 
-For environment setup, API specifications, and detailed programming instructions, see the [Programming Manual](docs/ProgrammingManual.md).
+For environment setup, API specifications, and detailed programming instructions, see the Programming Manual.
 
 ## Before You Start
 
