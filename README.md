@@ -1,4 +1,4 @@
-All backup files are in the “release”
+All backup files are in the “release” 檔名的格式為 UTC 若需轉成台灣的時間需要轉成 UTC+8
   # Kibo-RPC 7th Simulator
 
 This workspace is used to develop programs for Kibo-RPC 7th and test them with the Web simulator or the local simulator.
